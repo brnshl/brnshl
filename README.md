@@ -7,7 +7,7 @@
 ## 🚀 About Me 
 - 🎓 BS Information Systems Student at **New Era University** 
 - 💻 Aspiring **Software Engineer** 
-- 🌱 Currently learning **React.js**, JavaScript ES6+, and modern web development. 
+- 🌱 Currently learning **React.js**, **Python**, and **modern web development**. 
 - 🚀 Passionate about creating responsive, user-friendly web applications and continuously improving my skills.
 
 ## 🛠️ Tech Stack
