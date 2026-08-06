@@ -1,5 +1,8 @@
-# 👋 Hi there! I'm Brean Ibanez
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Information+Systems+Student;Currently+Learning+React.js;Always+Learning+New+Things+🚀" alt="Typing SVG" /> </p>
+<h1 align="center">Hi 👋, I'm Brean Ibanez</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Information+Systems+Student;React.js+Learner;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me 
 - 🎓 BS Information Systems Student at **New Era University** 
@@ -79,7 +82,7 @@
 *freeCodeCamp*
 
 ## 📂 Projects
-**Available Soon**
+**Available Soon...**
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=brnshl&theme=github-dark)
