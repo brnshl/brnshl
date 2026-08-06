@@ -89,7 +89,16 @@
 
 ## 👀 Visitor Counter 
 ![Visitors](https://komarev.com/ghpvc/?username=brnshl&style=for-the-badge&color=blue)
+
 ## 📫 Connect With Me
-## GitHub: https://github.com/brnshl
-## LinkedIn: https://linkedin.com/in/brnshl 1
+
+<p align="left">
+  <a href="https://github.com/brnshl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-brnshl-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/brnshl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-brnshl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
