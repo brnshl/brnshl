@@ -63,9 +63,6 @@
 <td>
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
 ![EAS](https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white)
 
