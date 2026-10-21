@@ -39,7 +39,7 @@
 </tr>
 
 <tr>
-<td align="center"><strong>BaaS, Databases & Deployment</strong></td>
+<td align="center"><strong>Databases & Deployment</strong></td>
 <td>
 
 ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -54,18 +54,6 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-</td>
-</tr>
-
-  <tr>
-<td align="center"><strong>Production Stack</strong></td>
-<td>
-
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-![EAS](https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white)
-
 </td>
 </tr>
 </table>
