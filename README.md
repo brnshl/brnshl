@@ -17,10 +17,10 @@ New Era University
 
 ### 📜 Certifications
 
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](#)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](#)
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate (https://catalog-education.oracle.com/ords/certview/sharebadge?id=8532446F9EE80CD1F10694F0F634C03368B3A75D308585C3A51AD93C7CB59A66)](#)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate (https://catalog-education.oracle.com/ords/certview/sharebadge?id=4A0FC346D3F571D72A1DD2B21D2FDBC418013094FA0DF54D6AC138AC5760B062)](#)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](#)
-- [SQL and Relational Databases 101](#)
+- [SQL and Relational Databases 101 (https://courses.cognitiveclass.ai/certificates/1ae3ea39e7ac45d3a84188f73b057ef7)](#)
 
 ---
 
