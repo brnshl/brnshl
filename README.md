@@ -43,7 +43,7 @@ New Era University
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/brnshl/)](#)
+- **LinkedIn:** [[Brean Ibanez](https://www.linkedin.com/in/brnshl/)](#)
 - **Email:** [brnsheinibanez@gmail.com](mailto:brnsheinibanez@gmail.com)
 
 ---
