@@ -15,9 +15,6 @@ New Era University
 
 ---
 
-### 📜 Certifications
-
--
 ## 📜 Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8532446F9EE80CD1F10694F0F634C03368B3A75D308585C3A51AD93C7CB59A66)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4A0FC346D3F571D72A1DD2B21D2FDBC418013094FA0DF54D6AC138AC5760B062)
@@ -46,8 +43,9 @@ New Era University
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [[Brean Ibanez](https://www.linkedin.com/in/brnshl/)](#)
+- **LinkedIn:** [Brean Ibanez](https://www.linkedin.com/in/brnshl/)
 - **Email:** [brnsheinibanez@gmail.com](mailto:brnsheinibanez@gmail.com)
+
 
 ---
 
